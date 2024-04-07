@@ -2,7 +2,7 @@ void main(){
   print("I am from \n India"); //new line 
   print("I am from \t india");
 
-  //int, double, num, String, bool, List, Set(unordered unique value), Map, 
+  //int, double, num, String, bool, List, Set(unordered unique value), Map,  
   //runes(unicode value of String), null  
 
   num price = 243.4;

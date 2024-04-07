@@ -1,7 +1,8 @@
+
 void main(){
   String name = "Bhushan";
   String msg = 'A';
-  var text = "hello";
+  var text = "hello";     //detects the type from value->here String-> now, you can only assign string type in text variable
   var txt = 'H';
 
   int num1 = 12;
@@ -20,6 +21,7 @@ void main(){
   const double pi_1 = 3.14;
   const pi_2 = 3.14; //can write without specify the data type, it will automatically assign by detecting value
   const COLOR = "Blue";
+  const String colors = "red";
   // COLOR = "Red";  not possible
 
 
@@ -30,13 +32,5 @@ void main(){
   // (final class) bool,
   // var, const
   // var can store any type value, but i am seeing const also store any type value, 
-
-
-
-
-
-
-
-
 
 }
