@@ -30,7 +30,7 @@ void main(){
 
   //// B. User Input
   print("Enter Name: ");
-  String? name = stdin.readLineSync();
+  String? name = stdin.readLineSync();   //readbytesync
   print("your name is $name");
   int? number = int.parse(stdin.readLineSync()!);
 
